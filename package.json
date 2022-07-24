@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroMC-byte/asincronismo-con-JavaScript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Alejandro Montero Cardona alejandro.montero@correounivalle.edu.co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlejandroMC-byte/asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/AlejandroMC-byte/asincronismo-con-JavaScript#readme"
+}
