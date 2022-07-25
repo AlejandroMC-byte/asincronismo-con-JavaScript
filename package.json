@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/AlejandroMC-byte/asincronismo-con-JavaScript#readme",
   "dependencies": {
+    "node-fetch": "^3.2.9",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
