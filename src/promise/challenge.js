@@ -33,4 +33,4 @@ fetchData(`${API}/products`)
     })
     .catch(err=>console.error(err))
     .finally(()=> console.log('Finally'));
-    
+
